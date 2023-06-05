@@ -1,0 +1,65 @@
+#h1pro{
+    color: rgb(89, 46, 46);
+    margin-left: 30px;
+    font-weight: bold;
+}
+.hrmar{
+    margin-top: 3%;
+}
+.ccc{
+   
+   background-color: rgb(255, 255, 255); 
+   
+   box-shadow: 5px 10px #6c6c6c18;
+}
+.cvc{
+    background-color: rgba(224, 224, 224, 0.654);
+}
+
+.colertextt{
+    color:rgb(146, 255, 210);
+}
+.concss{
+    background-color: rgb(115, 73, 59);
+    border-radius: 25px;
+}
+.bttncss{
+    width: 100px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 25px;
+    font-weight: bold;
+}
+#colorid{
+    color: rgb(230, 185, 165);
+    font-weight: bold;
+}
+.buttt{
+    width: 50%;
+    height: 25px;
+    background-color: antiquewhite;
+}
+.hjh{
+    margin-left: 13%;
+}
+.mar{
+    margin-left: 3%;
+}
+.mart{
+    margin-bottom: 1%;
+}
+.bttncs{
+    width: 100px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 0, 0);
+    border-radius: 25px;
+    margin-left: 1%;
+    border-color: transparent;
+    font-weight: bold;
+}
+#shhi{
+   
+    margin-top: 3%;
+}
